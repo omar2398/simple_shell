@@ -1,7 +1,7 @@
 #!/bin/bash
 
 begin=1
-end=40
+end=12
 
 for ((num=begin;num<=end;num++))
 do	
