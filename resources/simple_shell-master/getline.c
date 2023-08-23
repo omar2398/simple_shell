@@ -1,6 +1,6 @@
 #define MAX 4096
 #define READING 1
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 #include <signal.h>
 /**

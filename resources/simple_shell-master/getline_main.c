@@ -1,5 +1,5 @@
 #define MAX 1024
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/wait.h>
